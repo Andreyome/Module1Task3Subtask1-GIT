@@ -1,0 +1,24 @@
+From 2a594a19c038bd5f941bc46f70891c59d35d0c6f Mon Sep 17 00:00:00 2001
+From: Andreyome <andreyomem@gmail.com>
+Date: Mon, 13 Mar 2023 23:26:49 +0200
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 1a93957..0739b9d 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ fifth
+ sixth
+ seventh
+ eights
+-ninth
+-tenth
++ninth-----Changed
++tenth-----Changed
+-- 
+2.39.1.windows.1
+
